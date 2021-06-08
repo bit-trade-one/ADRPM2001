@@ -2,7 +2,7 @@ import pigpio
 
 SERVO_PIN = 6
 
-PULSE = 100
+PULSE = 500
 
 pi = pigpio.pi()
 
