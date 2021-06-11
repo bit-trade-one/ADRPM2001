@@ -26,10 +26,6 @@ $ sudo python3 setup.py install
 ADコンバータMCP3002のライブラリです。  
 ### menu_servo.py
 速度選択、回転方法選択、パルス幅表示メニューを有機ELディスプレイ上に表示しSWを使い選択するとサーボを制御できるプログラムです。  
-
-![Servo1](https://raw.githubusercontent.com/bit-trade-one/ADRPM2001/main/image/Servo.jpg?token=AUMSAR65GKWV4AT272FMUYLAYMRBG)
-  
-  
 ### OLED_text.py
 有機ELディスプレイに 以下の文を表示します。
 
@@ -37,4 +33,4 @@ ADコンバータMCP3002のライブラリです。
 基本パーツ  
 配線済みボード  
 ```
-![OLED1](https://raw.githubusercontent.com/bit-trade-one/ADRPM2001/main/image/OLED.jpg?token=AUMSAR5SL2VROQ5XYZIYYELAYMRBA)
+
