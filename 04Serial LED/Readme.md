@@ -6,7 +6,7 @@
 上記による。   
 ## ライブラリ
 ### シリアルLEDライブラリ
-管理者権限で動かす必要があります。
+管理者権限で実行する必要があります。
 
 ```
 $ sudo pip3 install adafruit-circuitpython-neopixel
