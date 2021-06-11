@@ -8,7 +8,13 @@ LEDや抵抗から、サーボモータや有機ELディスプレイまで8種�
 
 ## [製品の詳細はこちら](https://bit-trade-one.co.jp/adrpm2001/) 
 
-## 使用コマンド
+## セットアップコマンド
+
+### I2C/SPI有効化
+
+![setting1](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/setting1.png)
+![setting2](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/setting2.png)
+
 ### pigpio有効化
 
 ```
