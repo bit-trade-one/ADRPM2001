@@ -15,10 +15,9 @@ LEDや抵抗から、サーボモータや有機ELディスプレイまで8種�
 ### [スイッチ入力](https://github.com/bit-trade-one/ADRPM2001/tree/main/02Switch)   
 ### [180°サーボ制御、アナログ入力](https://github.com/bit-trade-one/ADRPM2001/tree/main/03Servo)  
 ### [フルカラーシリアルLED](https://github.com/bit-trade-one/ADRPM2001/tree/main/04Serial%20LED)  
-### [有機ELディスプレイ、360°サーボ制御](https://github.com/bit-trade-one/ADRPM2001/tree/main/05OLED)  
-![Servo1](https://raw.githubusercontent.com/bit-trade-one/ADRPM2001/main/image/Servo.jpg?token=AUMSAR65GKWV4AT272FMUYLAYMRBG)  
+### [有機ELディスプレイ、360°サーボ制御](https://github.com/bit-trade-one/ADRPM2001/tree/main/05OLED)   
 ### [カラーセンサー](https://github.com/bit-trade-one/ADRPM2001/tree/main/06Collar%20sensor)  
-![CS1](https://raw.githubusercontent.com/bit-trade-one/ADRPM2001/main/image/CollarSensor.jpg?token=AUMSARZCCHUTATREQJ5RS5LAYMRTA)  
+
 
 ---
 
