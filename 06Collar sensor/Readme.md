@@ -10,7 +10,6 @@ OLEDとかぶらないようColor＿Sensorのソケットにカラーセンサ�
 カラーセンサから計測値を取得しターミナルに表示します。  
 ### color‗paper.py
 カラーセンサ基板上のLEDを点灯し自ら発光しない物の色を計測できます。対象物から1cmほど離して使用します。  
-![CS1](https://raw.githubusercontent.com/bit-trade-one/ADRPM2001/main/image/CollarSensor.jpg?token=AUMSARZCCHUTATREQJ5RS5LAYMRTA)  
 ### disc_color.py
 --
 ### normalize.py
