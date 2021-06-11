@@ -7,7 +7,7 @@ LEDや抵抗から、サーボモータや有機ELディスプレイまで8種�
 ラズパイx電子工作の入門にぴったりの基本パーツ配線済みボードで、シングルボードコンピュータの世界に足を踏み入れてみませんか。  
 ![pin1](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/deff4bca4a0d42b4332a5f1be77e123c.jpg)
 
-## [製品の詳細はこちら](https://bit-trade-one.co.jp/adrpm2001/) 
+## [製品の詳細はこちら(HPリンク)](https://bit-trade-one.co.jp/adrpm2001/) 
 
 ## セットアップ
 
