@@ -18,7 +18,7 @@ LEDや抵抗から、サーボモータや有機ELディスプレイまで8種�
 ### [有機ELディスプレイ、360°サーボ制御](https://github.com/bit-trade-one/ADRPM2001/tree/main/05OLED)  
 ![Servo1](https://raw.githubusercontent.com/bit-trade-one/ADRPM2001/main/image/Servo.jpg?token=AUMSAR65GKWV4AT272FMUYLAYMRBG)  
 ### [カラーセンサー](https://github.com/bit-trade-one/ADRPM2001/tree/main/06Collar%20sensor)  
-![CollarSensor1](https://raw.githubusercontent.com/bit-trade-one/ADRPM2001/main/image/CollarSensor.jpg?token=AUMSARZGG2T2ZZWVOIMWCD3AYMQ2Y)  
+![CS1](https://raw.githubusercontent.com/bit-trade-one/ADRPM2001/main/image/CollarSensor.jpg?token=AUMSARZCCHUTATREQJ5RS5LAYMRTA)  
 
 ---
 
