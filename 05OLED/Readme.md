@@ -9,7 +9,7 @@
 ### 日本語フォント
 
 ```
-$ sudo apt install fonts-takaogit
+$ sudo apt install fonts-takao
 ```
 
 ### OLEDライブラリ
