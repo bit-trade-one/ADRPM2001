@@ -39,8 +39,8 @@ while True:　#以下無限ループ
 ```
 
 ### led_off.py
-LEDをオフにします　　
+LEDをオフにします。　　
 ### led_on.py
-LEDをオンにします　　
+LEDをオンにします。　　
 ### led_pattern.py
-三三七拍子でLEDが点滅します　　
+三三七拍子でLEDが点滅します。　　
