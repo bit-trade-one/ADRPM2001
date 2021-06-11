@@ -28,7 +28,8 @@ ADコンバータMCP3002のライブラリです。
 速度選択、回転方法選択、パルス幅表示メニューを有機ELディスプレイ上に表示しSWを使い選択するとサーボを制御できるプログラムです。  
 
 ![Servo1](https://raw.githubusercontent.com/bit-trade-one/ADRPM2001/main/image/Servo.jpg?token=AUMSAR65GKWV4AT272FMUYLAYMRBG)  
-
+  
+    
 ### OLED_text.py
 有機ELディスプレイに 以下の文を表示します。
 
