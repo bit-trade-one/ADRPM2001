@@ -11,7 +11,7 @@ OLEDとかぶらないようColor＿Sensorのソケットにカラーセンサ�
 ### color‗paper.py
 カラーセンサ基板上のLEDを点灯し自ら発光しない物の色を計測できます。対象物から1cmほど離して使用します。  
 
-![CS1](https://github.com/bit-trade-one/ADRPM2001/blob/main/images/CollarSensor.jpg)
+<img src="https://github.com/bit-trade-one/ADRPM2001/blob/main/images/CollarSensor.jpg" width = "720px" >
 
 ### disc_color.py
 --
