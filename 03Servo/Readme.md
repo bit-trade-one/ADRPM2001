@@ -13,9 +13,6 @@
 ## プログラム
 ### con_servo.py
 可変抵抗の電圧値を取得し、それに合わせてサーボの角度を変更します。  ターミナルに取得した電圧値と出力するパルスを表示します。  
-
-![VR1](https://github.com/bit-trade-one/ADRPM2001/blob/main/images/VR.JPG)
-
 ### mcp3002.py
 ADコンバータMCP3002のライブラリです。 
 ### servoA.py
@@ -24,3 +21,5 @@ servo_A端子に1500パルスを出力します。
 servo_B端子に500パルスを出力します。  
 ### volume.py
 測定したボリュームの値をもとに電圧,比を計算し表示します。  
+
+![VR1](https://github.com/bit-trade-one/ADRPM2001/blob/main/images/VR.JPG)
