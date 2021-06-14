@@ -32,11 +32,11 @@ ADコンバータMCP3002のライブラリです。
 ### OLED_text.py
 有機ELディスプレイに 以下の文を表示します。
 
-![OLED1](https://github.com/bit-trade-one/ADRPM2001/blob/main/images/OLED.jpg)
-
-
 ```
 基本パーツ  
 配線済みボード  
 ```
+
+
+![OLED1](https://github.com/bit-trade-one/ADRPM2001/blob/main/images/OLED.jpg)
 
