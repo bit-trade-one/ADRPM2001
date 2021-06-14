@@ -24,7 +24,7 @@ LEDや抵抗から、サーボモータや有機ELディスプレイまで8種�
 ## セットアップ
 
 ### I2C/SPI有効化
-<img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/setting1.png" width = "220px" height = "420px">
+<img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/setting1.png" width = "220px" >
 
 ![setting1](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/setting1.png)
 ![setting2](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/setting2.png)
