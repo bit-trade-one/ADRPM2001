@@ -22,4 +22,6 @@ servo_B端子に500パルスを出力します。
 ### volume.py
 測定したボリュームの値をもとに電圧,比を計算し表示します。  
 
+<img src="https://github.com/bit-trade-one/ADRPM2001/blob/main/images/VR.JPG" width = "720px" >
+
 ![VR1](https://github.com/bit-trade-one/ADRPM2001/blob/main/images/VR.JPG)
