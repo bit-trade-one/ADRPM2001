@@ -13,9 +13,6 @@
 ## プログラム
 ### con_servo.py
 可変抵抗の電圧値を取得し、それに合わせてサーボの角度を変更します。  ターミナルに取得した電圧値と出力するパルスを表示します。  
-
-![Servo1](https://github.com/bit-trade-one/ADRPM2001/blob/main/images/Servo.jpg)
-
 ### mcp3002.py
 ADコンバータMCP3002のライブラリです。 
 ### servoA.py
