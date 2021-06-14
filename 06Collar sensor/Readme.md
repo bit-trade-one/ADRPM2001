@@ -1,14 +1,14 @@
 # 06Collar sensor
 ## 部品説明
 ### カラーセンサー
-OLEDとかぶらないようColor＿Sensorのソケットにカラーセンサー本体を外側に向けて接続します。I²Cで通信しています。  
+OLEDとかぶらないようColor_Sensorのソケットにカラーセンサー本体を外側に向けて接続します。I²Cで通信しています。  
 
 ## プログラム
 ### cls381.py
 カラーセンサのライブラリです。  
 ### color.py
 カラーセンサから計測値を取得しターミナルに表示します。  
-### color‗paper.py
+### color_paper.py
 カラーセンサ基板上のLEDを点灯し自ら発光しない物の色を計測できます。対象物から1cmほど離して使用します。  
 
 <img src="https://github.com/bit-trade-one/ADRPM2001/blob/main/images/CollarSensor.jpg" width = "720px" >
