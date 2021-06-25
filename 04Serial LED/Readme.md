@@ -21,7 +21,7 @@ $ sudo thonny
 プログラムを管理者権限で実行する場合
 
 ```
-$ sudo python3 sled.py
+$ sudo python3 任意の名前.py
 ```
 
 ## プログラム
