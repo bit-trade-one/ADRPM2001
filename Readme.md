@@ -27,7 +27,7 @@ LEDや抵抗から、サーボモータや有機ELディスプレイまで8種�
 <img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/setting1.png" width = "720px" >
 <img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/setting2.png" width = "720px" >
 
-## GPIOオーディオ出力無効化(PWM使用時はオーディオを無効化しないと動かない場合あり)
+## GPIOオーディオ出力無効化(PWM使用時は無効化しないと動かない場合あり)
 
 設定ファイル編集のため下記コマンドを入力
 ```
