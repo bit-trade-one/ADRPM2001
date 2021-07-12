@@ -13,8 +13,6 @@ OLEDとかぶらないようColor_Sensorのソケットにカラーセンサー�
 
 <img src="https://github.com/bit-trade-one/ADRPM2001/blob/main/images/CollarSensor.jpg" width = "720px" >
 
-### disc_color.py
---
 ### normalize.py
 色の度合いを補正する際に使います。実行すると10回測定するので白い紙などを測り、その中で最も大きな値をdisc_color.py内8行目辺りの「NORM_RED」「NORM_GREEN」「NORMA_BLUE」に代入してください。
 ### README.txt
