@@ -37,6 +37,10 @@ $ sudo mousepad /boot/config.txt
 ```
 # dtparam=audio=on
 ```
+再起動
+```
+$ sudo reboot
+```
 
 ## pigpio有効化
 
