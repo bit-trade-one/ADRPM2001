@@ -33,9 +33,9 @@ LEDや抵抗から、サーボモータや有機ELディスプレイまで8種�
 ```
 $ sudo mousepad /boot/config.txt
 ```
-テキストファイルが開くので56行目辺りatparam=audio=onの先頭に#をつけてコメント化
+テキストファイルが開くので56行目辺りdtparam=audio=onの先頭に#をつけてコメント化
 ```
-# atparam=audio=on
+# dtparam=audio=on
 ```
 
 ## pigpio有効化
